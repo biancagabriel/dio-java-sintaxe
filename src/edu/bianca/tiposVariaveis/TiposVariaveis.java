@@ -14,7 +14,7 @@ public class TiposVariaveis {
         short numeroCurto2 = (short) numeroNormal;
 
         final int numero =5;
-        //numero = 10;
+        //numero = 10; //quando coloca final da erro na linha de alteração de valor
         System.out.println(numero);
 
     }
