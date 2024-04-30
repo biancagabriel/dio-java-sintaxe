@@ -1,4 +1,4 @@
-package edu.bianca.primeirasemana;
+package edu.bianca.anatomiaClasses;
 
 public class MinhaClasse {
 
