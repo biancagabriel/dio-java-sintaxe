@@ -12,7 +12,7 @@ public class Escopo {
         //disponível em toda classe
         System.out.println(saldo);
         //somente o método sacar conhece esta variavel
-        System.out.println(novoSaldo); //novo saldo ta fora de escopo porque ta declarada dentro do sacar()
+        //System.out.println(novoSaldo); //novo saldo ta fora de escopo porque ta declarada dentro do sacar()
 
     }
     public double calcularDividaExponencial(){
