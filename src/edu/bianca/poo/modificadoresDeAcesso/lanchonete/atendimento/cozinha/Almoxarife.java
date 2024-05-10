@@ -1,4 +1,4 @@
-package edu.bianca.poo.lanchonete.atendimento.cozinha;
+package edu.bianca.poo.modificadoresDeAcesso.lanchonete.atendimento.cozinha;
 
 public class Almoxarife {
     private void controlarEntrada() {

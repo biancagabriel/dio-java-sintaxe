@@ -1,6 +1,4 @@
-package edu.bianca.poo.lanchonete.atendimento.cozinha;
-
-import edu.bianca.poo.lanchonete.atendimento.Atendente;
+package edu.bianca.poo.modificadoresDeAcesso.lanchonete.atendimento.cozinha;
 
 public class Cozinheiro {
     public void adicionarLancheNoBalcao() {

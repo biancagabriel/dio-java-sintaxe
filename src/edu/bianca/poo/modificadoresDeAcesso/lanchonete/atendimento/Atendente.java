@@ -1,4 +1,4 @@
-package edu.bianca.poo.lanchonete.atendimento;
+package edu.bianca.poo.modificadoresDeAcesso.lanchonete.atendimento;
 
 public class Atendente {
     public void servindoMesa() {

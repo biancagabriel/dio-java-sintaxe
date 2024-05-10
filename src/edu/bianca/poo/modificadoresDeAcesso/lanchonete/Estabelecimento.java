@@ -1,8 +1,8 @@
-package edu.bianca.poo.lanchonete;
+package edu.bianca.poo.modificadoresDeAcesso.lanchonete;
 
-import edu.bianca.poo.lanchonete.area.cliente.Cliente;
-import edu.bianca.poo.lanchonete.atendimento.Atendente;
-import edu.bianca.poo.lanchonete.atendimento.cozinha.Cozinheiro;
+import edu.bianca.poo.modificadoresDeAcesso.lanchonete.area.cliente.Cliente;
+import edu.bianca.poo.modificadoresDeAcesso.lanchonete.atendimento.Atendente;
+import edu.bianca.poo.modificadoresDeAcesso.lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
     public static void main(String[] args) {

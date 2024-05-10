@@ -1,4 +1,4 @@
-package edu.bianca.poo.lanchonete.area.cliente;
+package edu.bianca.poo.modificadoresDeAcesso.lanchonete.area.cliente;
 
 public class Cliente {
     public void escolherLanche() {
